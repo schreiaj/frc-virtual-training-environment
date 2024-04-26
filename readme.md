@@ -10,3 +10,16 @@ The `test_path.traj` is a path drawn in [Choreo](https://github.com/SleipnirGrou
 From there you can run the Colab Notebook (BlenderProc Test.ipynb)
 
 This is largely just a dump of some test scripts I put together for my personal experiments and is in no way a fully documented project. If you're interested give it a shot and file issues/PRs as you see fit. 
+
+## Example Output
+Color Rendering
+
+![](https://raw.githubusercontent.com/schreiaj/frc-virtual-training-environment/main/img/photo.png)
+
+Note Segmentation
+
+![](https://raw.githubusercontent.com/schreiaj/frc-virtual-training-environment/main/img/note_seg.png)
+
+Instance Segmentation
+
+![](https://raw.githubusercontent.com/schreiaj/frc-virtual-training-environment/main/img/instance_seg.png)
