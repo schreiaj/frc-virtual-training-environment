@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schreiaj/frc-virtual-training-environment/blob/main/BlenderProc%20Test.ipynb]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schreiaj/frc-virtual-training-environment/blob/main/BlenderProc%20Test.ipynb)
 
 
 This is an example of how to create virtual training datasets for FRC. 
